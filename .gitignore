@@ -65,3 +65,5 @@ Temporary Items
 .idea/gradle.xml
 .idea/libraries
 .gradle
+build/dependency-cache/
+build/tmp/compileJava/
